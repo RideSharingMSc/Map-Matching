@@ -1,7 +1,7 @@
 libgeohash
 ==========
 
-Derek Smith 
+Derek Smith (Modified By Vindula Jayawardana)
 -----------
 derek@simplegeo.com
 -------------------
